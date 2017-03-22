@@ -1,4 +1,3 @@
 ## Welcome
 
-You can use the [editor on GitHub](https://github.com/eldhourumeese/eldhourumeese.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
+You (https://github.com/eldhourumeese/eldhourumeese.github.io)d
